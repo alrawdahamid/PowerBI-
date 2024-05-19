@@ -1,10 +1,17 @@
-# Analyzing Customer Churn in Telecom
+# Customer Churn (in Telecom) Analysis 
 ### Project Overview
 #### Data Source: [Download](https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3)
-#### Analysis 
+#### Preprocessing:
+1..
+2..
+3..
+#### Analysis
+- ?
+- ?
+- ?
 #### Results
 #### Recommendations
 #### Tools
-- Data cleaning:
-- Data visualization:
+- Data cleaning: PowerBI
+- Data visualization: PowerBI
 
